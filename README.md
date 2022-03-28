@@ -1,2 +1,2 @@
-# VR_project
-A repo for a future VR project 
+# VR_project  
+Just a beginning of something great
